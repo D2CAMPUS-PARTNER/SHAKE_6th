@@ -1,0 +1,2 @@
+# SHAKE_6th
+D2 CAMPUS PARTNER 운영진 모임 (18.02.07)
