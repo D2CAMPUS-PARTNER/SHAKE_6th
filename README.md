@@ -2,7 +2,7 @@
 
 ### 참석전 꼭 동아리 소개를 작성해주세요!
  - 동아리 소개와 함께 2017년 동아리 활동 내용과 2018년의 활동 계획을 알려주세요~ 
- - 작성하기 : [[Issues]](https://github.com/D2CAMPUS-PARTNER/SHAKE_6th/issues) 클릭!
+ - 작성하기 : [[Issues]](https://github.com/D2CAMPUS-PARTNER/SHAKE_6th/issues/new) 클릭!
 
 
 #### 다른 PARNTER와 함께 나누고 싶은 이야기가 있나요? - 10 min TALK!
