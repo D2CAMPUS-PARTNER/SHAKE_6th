@@ -20,5 +20,6 @@
 동아리명|스터디분야|활동페이지
 --------------|----------|----------
 D2 CAMPUS | IT | https://www.facebook.com/naverd2
+ALOHA | 알고리즘 | https://www.facebook.com/HYUALOHA
 
 
