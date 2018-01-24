@@ -20,5 +20,5 @@
 동아리명|스터디분야|활동페이지
 --------------|----------|----------
 ALOHA | 알고리즘 | https://www.facebook.com/HYUALOHA
-
+chAOS | 알고리즘 | www.chaos.or.kr
 
