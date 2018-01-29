@@ -24,5 +24,6 @@ ALOHA | 알고리즘 | https://www.facebook.com/HYUALOHA
 A.N.S.I. | 알고리즘 | -
 chAOS | 알고리즘 | www.chaos.or.kr
 모르고리즘 | 알고리즘 | -
+EOS | 어플리케이션개발 | http://hyu-eos.tistory.com/category
 
 
