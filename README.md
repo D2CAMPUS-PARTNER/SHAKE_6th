@@ -21,4 +21,7 @@
 --------------|----------|----------
 ALOHA | 알고리즘 | https://www.facebook.com/HYUALOHA
 chAOS | 알고리즘 | www.chaos.or.kr
+모르고리즘 | 알고리즘 | -
+A.N.S.I. | 알고리즘 | -
+ALGOS | 알고리즘 | http://cafe.naver.com/smalgos
 
