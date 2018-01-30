@@ -28,5 +28,5 @@ IGRUS | 정보 보안/게임 개발/웹 등 | -
 SCCC | 알고리즘 | http://sccc.kr/
 YBIGTA | 빅데이터 | -
 모르고리즘 | 알고리즘 | -
-
+WhoIs | 정보보안 / 개발 | [페이스북 페이지](https://fb.com/ajou-whois) / [블로그](https://ajou-whois.github.io) / [GitHub](https://github.com/ajou-whois)
 
