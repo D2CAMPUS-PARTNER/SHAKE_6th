@@ -21,7 +21,7 @@
 --------------|----------|----------
 ALGOS | 알고리즘 | http://cafe.naver.com/smalgos
 ALOHA | 알고리즘 | https://www.facebook.com/HYUALOHA
-A.N.S.I. | 알고리즘 | -
+A.N.S.I. | 알고리즘 | https://www.facebook.com/AjouAnsi
 chAOS | 알고리즘 | www.chaos.or.kr
 EOS | 어플리케이션개발 | http://hyu-eos.tistory.com/category
 IGRUS | 정보 보안/게임 개발/웹 등 | -
