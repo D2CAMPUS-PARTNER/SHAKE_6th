@@ -21,8 +21,18 @@
 --------------|----------|----------
 ALGOS | 알고리즘 | http://cafe.naver.com/smalgos
 ALOHA | 알고리즘 | https://www.facebook.com/HYUALOHA
-A.N.S.I. | 알고리즘 | -
+A.N.S.I. | 알고리즘 | https://www.facebook.com/AjouAnsi
 chAOS | 알고리즘 | www.chaos.or.kr
-모르고리즘 | 알고리즘 | -
+EOS | 어플리케이션개발 | http://hyu-eos.tistory.com/category
 IGRUS | 정보 보안/게임 개발/웹 등 | -
 NEXTERS | 웹/앱 개발 | https://www.facebook.com/Nexterspage
+NET | 알고리즘&WEB | http://cafe.naver.com/khunet199
+SCCC | 알고리즘 | http://sccc.kr/
+SOPT | 대학생 연합 IT벤처 창업 동아리 | http://sopt.org/wp/
+TOBIGS | 빅데이터 | http://www.datamarket.kr/xe/
+WhoIs | 정보보안 / 개발 | [페이스북 페이지](https://fb.com/ajou-whois) / [블로그](https://ajou-whois.github.io) / [GitHub](https://github.com/ajou-whois)
+YBIGTA | 빅데이터 | -
+ZeroPage | 프로그래밍 | [wiki page](http://wiki.zeropage.org/wiki.php/%ED%99%9C%EB%8F%99%EC%A7%80%EB%8F%84/2018)
+모르고리즘 | 알고리즘 | -
+오소리 | 오픈소스 개발 | [홈페이지](http://hyosori.org/) / [github repositories](https://github.com/HyOsori)
+
