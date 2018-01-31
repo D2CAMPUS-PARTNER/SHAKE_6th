@@ -28,6 +28,7 @@ EOS | 어플리케이션개발 | http://hyu-eos.tistory.com/category
 IGRUS | 정보 보안/게임 개발/웹 등 | -
 NEXTERS | 웹/앱 개발 | https://www.facebook.com/Nexterspage
 NET | 알고리즘&WEB | http://cafe.naver.com/khunet199
+RUN | 알고리즘 | http://run.kaist.ac.kr/
 SCCC | 알고리즘 | http://sccc.kr/
 SOPT | 대학생 연합 IT벤처 창업 동아리 | http://sopt.org/wp/
 TOBIGS | 빅데이터 | http://www.datamarket.kr/xe/
