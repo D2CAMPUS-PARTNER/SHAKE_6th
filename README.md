@@ -41,3 +41,4 @@ ZeroPage | 프로그래밍 | [wiki page](http://wiki.zeropage.org/wiki.php/%ED%9
 SCG | 웹개발 | http://scg.skku.ac.kr/
 SSG | 정보보안 / 개발 | [페이스북 페이지](https://fb.com/sejongssg/) / [블로그](http://blog.sejongssg.kr/) 
 HACKER | 알고리즘, 웹/앱 개발 | [홈페이지](https://khuhacker.com) 
+HeXA | 해킹 / 프로그래밍 | http://fb.com/unist.hexa
